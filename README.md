@@ -11,7 +11,7 @@ This project is a custom battery and audio module designed for the QRP-Labs QMX+
 ## Installation
 - This project is a prototype for now. Real life testing is not done yet.
 
-## Photos
+## Images
 ![Schematic](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board/blob/main/Images/QMX%2B%20Battery%20%2B%20Audio%20Board%20Schematic.jpg)
 
 ![3D Front](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board/blob/main/Images/3D%20Front.jpg)
