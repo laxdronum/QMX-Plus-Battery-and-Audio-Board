@@ -1,6 +1,8 @@
 # QMX+ Battery & Audio Module
 
-This project is a custom battery and audio module designed for the QRP-Labs QMX+ transceiver. The module is designed to be directly mounted on the existing circuitry inside the QMX+ for seamless integration.
+## THIS PROJECT IS A PROTOTYPE NO REAL LIFE TESTING IS DONE YET. USE IT IN YOUR OWN DISCRETION.
+
+This project is a custom battery and audio module designed for the QRP-Labs QMX+ transceiver. The module is designed to be directly mounted on the existing circuitry inside the QMX+ for seamless integration. 
 
 ## Features
 - Integrated battery power supply
@@ -17,6 +19,14 @@ This project is a custom battery and audio module designed for the QRP-Labs QMX+
 ![3D Front](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board/blob/main/Images/3D%20Front.jpg)
 
 ![3D Back](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board/blob/main/Images/3D%20Back.jpg)
+
+### Used Modules
+
+![3S 1A Multi Cell Charger Board](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board/blob/main/Images/3S%201A%20Multicell%20Charger%20Board.jpg)
+
+![LM386 Audio Amplifier Breakout Board](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board/blob/main/Images/LM386%20Breakout%20Board.jpg)
+
+![3S 20A BMS](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board/blob/main/Images/3S%2020A%20BMS.jpeg)
 
 
 ## Required Components
