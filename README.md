@@ -12,11 +12,11 @@ This project is a custom battery and audio module designed for the QRP-Labs QMX+
 - This project is a prototype for now. Real life testing is not done yet.
 
 ## Photos
-![Placeholder Image](path/to/image1.jpg)
+![Placeholder Image](Images/3D Front.jpg)
 
-![Placeholder Image](path/to/image2.jpg)
+![Placeholder Image]Images/3D Back.jpg)
 
-![Placeholder Image](path/to/image3.jpg)
+![Placeholder Image](Images/image3.jpg)
 
 ## Required Components
 - **3x 18650 Li-ion Batteries:** Any 18650 will work.
