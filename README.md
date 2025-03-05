@@ -19,17 +19,14 @@ This project is a custom battery and audio module designed for the QRP-Labs QMX+
 ![Placeholder Image](path/to/image3.jpg)
 
 ## Required Components
-- **3x 18650 Li-ion Batteries:** Lorem ipsum dolor sit amet
-- **3S 20A BMS Board** Lorem ipsum dolor sit amet
-- **1x LM386 Audio Amplifier Breakout Board:** Lorem ipsum dolor sit amet
-- **1x 3A Fuse:** Lorem ipsum dolor sit amet
-- **1x Fuse Holder:** Lorem ipsum dolor sit amet
-- **2x 1K 1/4W THT or 0805 SMD Resistors:** Lorem ipsum dolor sit amet
-- **8 Ohm Speaker:** Lorem ipsum dolor sit amet
-- **1x 1x6 2.54mm Female and Male Pin Headers:** Lorem ipsum dolor sit amet
-- **1x 1x5 2.54mm Female and Male Pin Headers:** Lorem ipsum dolor sit amet
-- **1x 2x2 2.54mm Female and Male Pin Headers:** Lorem ipsum dolor sit amet
+- **3x 18650 Li-ion Batteries:** Any 18650 will work.
+- **3S 20A BMS Board** Commonly available BMS board.
+- **1x LM386 Audio Amplifier Breakout Board:** Easy to assemble breakout board with potentiometer to adjust the volume even further.
+- **1x 3A Fuse:** For further protection.
+- **1x Fuse Holder:**
+- **2x 1K 1/4W THT or 0805 SMD Resistors:** Solder as you like SMD or THT.
+- **8 Ohm Speaker:** Necessary for audio output. Use the screw terminals on the audio amplifier board.
+- **1x 1x6 2.54mm Female and Male Pin Headers:** To mount the pcb directly on the main board.
+- **1x 1x5 2.54mm Female and Male Pin Headers:** 
+- **1x 2x2 2.54mm Female and Male Pin Headers:**
 
-
-## License
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rutrum congue leo eget malesuada.
