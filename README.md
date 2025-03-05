@@ -16,7 +16,7 @@ This project is a custom battery and audio module designed for the QRP-Labs QMX+
 
 ![3D Back](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board/blob/main/Images/3D%20Back.jpg)
 
-![Schematic](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board/blob/main/Images/QMX-Plus-Battery-and-Audio-Board-Schematic.jpg)
+![Schematic](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board/blob/main/Images/QMX%2B%20Battery%20%2B%20Audio%20Board%20Schematic.jpg)
 
 ## Required Components
 - **3x 18650 Li-ion Batteries:** Any 18650 will work.
