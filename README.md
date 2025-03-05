@@ -12,11 +12,12 @@ This project is a custom battery and audio module designed for the QRP-Labs QMX+
 - This project is a prototype for now. Real life testing is not done yet.
 
 ## Photos
+![Schematic](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board/blob/main/Images/QMX%2B%20Battery%20%2B%20Audio%20Board%20Schematic.jpg)
+
 ![3D Front](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board/blob/main/Images/3D%20Front.jpg)
 
 ![3D Back](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board/blob/main/Images/3D%20Back.jpg)
 
-![Schematic](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board/blob/main/Images/QMX%2B%20Battery%20%2B%20Audio%20Board%20Schematic.jpg)
 
 ## Required Components
 - **3x 18650 Li-ion Batteries:** Any 18650 will work.
@@ -26,7 +27,5 @@ This project is a custom battery and audio module designed for the QRP-Labs QMX+
 - **1x Fuse Holder:**
 - **2x 1K 1/4W THT or 0805 SMD Resistors:** Solder as you like SMD or THT.
 - **8 Ohm Speaker:** Necessary for audio output. Use the screw terminals on the audio amplifier board.
-- **1x 1x6 2.54mm Female and Male Pin Headers:** To mount the pcb directly on the main board.
-- **1x 1x5 2.54mm Female and Male Pin Headers:** 
-- **1x 2x2 2.54mm Female and Male Pin Headers:**
+- **1x 1x6, 1x 2x2, 1x5 2.54mm Female and Male Pin Headers:** To mount the pcb directly on the main board.
 
