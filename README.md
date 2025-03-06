@@ -28,7 +28,7 @@ This project is a custom battery and audio module designed for the QRP-Labs QMX+
 - **1x Fuse Holder:**
 - **2x 1K 1/4W THT or 0805 SMD Resistors:** Solder as you like SMD or THT.
 - **8 Ohm Speaker:** Necessary for audio output. Use the screw terminals on the audio amplifier board.
-- **1x 2x3, 1x 2x2, 1x5 2.54mm Female and Male Pin Headers:** To mount the pcb directly on the main board.
+- **1x 2x3, 1x 2x2, 1x 1x5 2.54mm Female and Male Pin Headers:** To mount the pcb directly on the main board.
 
 ### Used Modules
 
