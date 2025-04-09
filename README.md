@@ -6,6 +6,8 @@ This project is a custom battery and audio module designed for the QRP-Labs QMX+
 - Integrated battery power supply
 - Built-in audio amplifier
 - Direct mounting on QMX+ PCB
+- Type-C port for charging
+- Integrated BMS
 - Easy to assemble and efficient design
 
 ## Images
@@ -35,6 +37,7 @@ This project is a custom battery and audio module designed for the QRP-Labs QMX+
 
 ## Required Components
 - **3x 18650 Li-ion Batteries:**
+- **3S 1A Multi Cell Charger Board (DDTCCRUB):** 
 - **1x 3S 20A BMS Board** 
 - **1x LM386 Audio Amplifier Breakout Board:** Easy to assemble breakout board.
 - **1x 3A Fuse:** For further protection.
