@@ -62,7 +62,7 @@ This project is a custom battery and audio board designed for the QRP-Labs QMX+ 
 
 * You must change the orientation of the original headers found on audio amplifier board.
 
-* Modules should be soldered on top of single header pins just like in the photo above.
+* Modules should be soldered on top of single header pins just like in the photo below.
 
 * To solder the radio connection headers, it is advised to solder the QMX+'s headers first. Place the board on top of the mainboard of QMX+ with suitable headers, connect the boards with screws and then solder the headers to the battery board. This ensures our board lies flat on top of the mainboard.
 
