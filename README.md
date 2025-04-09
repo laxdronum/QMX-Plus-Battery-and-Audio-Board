@@ -1,6 +1,6 @@
 # QMX+ Battery & Audio Board
 
-This project is a custom battery and audio module designed for the QRP-Labs QMX+ transceiver. The module is designed to be directly mounted on the existing circuitry inside the QMX+.
+This project is a custom battery and audio module designed for the QRP-Labs QMX+ transceiver. The module is designed to be directly mounted on the mainboard of the QMX+.
 
 ## Features
 - Integrated battery power supply
@@ -30,6 +30,8 @@ This project is a custom battery and audio module designed for the QRP-Labs QMX+
 ## Warning and Disclaimer
 
 **I am not responsible for any damage to your equipment, injury, or any other consequences resulting from the use or misuse of this project. Double-check all connections and follow safety guidelines. Build and use this project at your own risk.**
+
+**Please do not copy and rebrand my project. You are free to use it with my labels.**
 
 ## Required Components
 - **3x 18650 Li-ion Batteries:**
@@ -77,7 +79,8 @@ To calibrate the audio you must first lower the volume as down as you can using 
 
 ## Notes
 
-If you power the radio with DC jack while battery pack is installed QMX+ will disconnect the batterries from radio. You can only charge the batterries from the Type-C port.
+* If you power the radio with DC jack while battery pack is installed QMX+ will disconnect the batterries from radio. You can only charge the batterries from the Type-C port.
+* The 8mm x 8mm square behind the board is for JLCPCB order number. Select the '2D Barcode' option when ordering.
 
 ## Links
 
@@ -86,4 +89,4 @@ If you power the radio with DC jack while battery pack is installed QMX+ will di
 
 ## Special thanks to G0UPL Hans Summers. This project is made possible with his help.
 
-# laxdronum, TA7MNA, GİTRAD Radio Club
+# laxdronum, TA7MNA, GİTRAD Radio Club YM7KK
