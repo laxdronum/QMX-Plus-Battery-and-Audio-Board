@@ -26,6 +26,11 @@ This project is a custom battery and audio module designed for the QRP-Labs QMX+
 
 ![3D Back](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board/blob/main/Images/Rev%201.1%203D%20Back.jpg)
 
+
+## Warning and Disclaimer
+
+**I am not responsible for any damage to your equipment, injury, or any other consequences resulting from the use or misuse of this project. Double-check all connections and follow safety guidelines. Build and use this project at your own risk.**
+
 ## Required Components
 - **3x 18650 Li-ion Batteries:**
 - **1x 3S 20A BMS Board** 
@@ -46,17 +51,17 @@ This project is a custom battery and audio module designed for the QRP-Labs QMX+
 
 ### Assembly
 
-Assembly order is not important. Resistors can be 1206 SMD or 1/4 W THT. Solder as you like. 
+* Assembly order is not important. Resistors can be 1206 SMD or 1/4 W THT. Solder as you like. 
 
-You must give attention to positive and negative terminals indicators of your battery holders to lower the chance of accidents. 
+* You must give attention to positive and negative terminals indicators of your battery holders to lower the chance of accidents. 
 
-You must change the orientation of the original headers found on audio amplifier board.
+* You must change the orientation of the original headers found on audio amplifier board.
 
-Modules should be soldered on top of single header pins just like in the photo above.
+* Modules should be soldered on top of single header pins just like in the photo above.
 
-To solder the radio connection headers, it is advised to solder the QMX+'s headers first. Place the board on top of the mainboard of QMX+ with suitable headers, connect the boards with screws and then solder the headers to the battery board. This ensures our board lies flat on top of the mainboard.
+* To solder the radio connection headers, it is advised to solder the QMX+'s headers first. Place the board on top of the mainboard of QMX+ with suitable headers, connect the boards with screws and then solder the headers to the battery board. This ensures our board lies flat on top of the mainboard.
 
-You should mark and drill the back plate after you screw the board to the mainboard. Board must be flat and sturdy.
+* You should mark and drill the back plate after you screw the board to the mainboard. Board must be flat and sturdy.
 
 **When all components are soldered you should test and inspect your board with a multimeter according to the schematic. If you are sure about it then insert the batterries correctly and power it on.**   
 
@@ -70,7 +75,15 @@ After assembly and testing that your radio works you must calibrate the audio.
 
 To calibrate the audio you must first lower the volume as down as you can using the volume knob of the radio. Then you must turn the variable resistor found on the audio board until you can hear the audio coming from the speaker barely. Audio is calibrated you should use the volume knob from now on.
 
-### Notes
+## Notes
 
 If you power the radio with DC jack while battery pack is installed QMX+ will disconnect the batterries from radio. You can only charge the batterries from the Type-C port.
 
+## Links
+
+* [QRP-Labs Website](https://www.qrp-labs.com)
+* [QRP-Labs QMX+ Transciever](https://qrp-labs.com/qmxp.html)
+
+## Special thanks to G0UPL Hans Summers. This project is made possible with his help.
+
+# laxdronum, TA7MNA, GİTRAD Radio Club
