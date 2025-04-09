@@ -65,21 +65,21 @@ This project is a custom battery and audio module designed for the QRP-Labs QMX+
 
 * You should mark and drill the back plate after you screw the board to the mainboard. Board must be flat and sturdy.
 
-**When all components are soldered you should test and inspect your board with a multimeter according to the schematic. If you are sure about it then insert the batterries correctly and power it on.**   
+**When all components are soldered you should test and inspect your board with a multimeter according to the schematic. If you are sure about it then insert the batteries correctly and power it on.**   
 
 ![Assembling Modules](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board/blob/main/Images/Assembling%20Modules.jpeg)
 
-**Note : Images above include *Rev. 1* which is the prototype version of this board. Assembly guide is identical to the *Rev. 1.1* The main difference between these revisions is switch option to change between charge and operation mode which is found unnecessary during testing. Minor silkscreen changes and footprint changes also made.**
+**Note : The image above include *Rev. 1* which is the prototype version of this board. Assembly guide is identical to the *Rev. 1.1* The main difference between these revisions is a switch option to change between charge and operation mode which is found unnecessary during testing. Minor silkscreen changes and footprint changes also made.**
 
 ### Audio Calibration
 
 After assembly and testing that your radio works you must calibrate the audio.
 
-To calibrate the audio you must first lower the volume as down as you can using the volume knob of the radio. Then you must turn the variable resistor found on the audio board until you can hear the audio coming from the speaker barely. Audio is calibrated you should use the volume knob from now on.
+To calibrate the audio you must first lower the volume as down as you can using the volume knob of the radio. Then you must turn the variable resistor found on the audio board until you can hear the audio coming from the speaker barely. Audio is calibrated,  you should use the volume knob from now on.
 
 ## Notes
 
-* If you power the radio with DC jack while battery pack is installed QMX+ will disconnect the batterries from radio. You can only charge the batterries from the Type-C port.
+* If you power the radio with DC jack while battery pack is installed, QMX+ will disconnect the batteries from radio. You can only charge the batterries from the Type-C port.
 * The 8mm x 8mm square behind the board is for JLCPCB order number. Select the '2D Barcode' option when ordering.
 
 ## Links
