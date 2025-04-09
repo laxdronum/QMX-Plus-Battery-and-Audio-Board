@@ -1,6 +1,6 @@
-# QMX+ Battery & Audio Board
+# QMX+ Battery & Audio Board/Shield
 
-This project is a custom battery and audio module designed for the QRP-Labs QMX+ transceiver. The module is designed to be directly mounted on the mainboard of the QMX+.
+This project is a custom battery and audio board designed for the QRP-Labs QMX+ transceiver. The module is designed to be directly mounted on the mainboard of the QMX+.
 
 ## Features
 - Integrated battery power supply
