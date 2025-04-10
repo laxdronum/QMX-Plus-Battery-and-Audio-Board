@@ -66,13 +66,13 @@ This project is a custom battery and audio board designed for the QRP-Labs QMX+ 
 
 * To solder the radio connection headers, it is advised to solder the QMX+'s headers first. Place the board on top of the mainboard of QMX+ with suitable headers, connect the boards with screws and then solder the headers to the battery board. This ensures our board lies flat on top of the mainboard.
 
-* You should mark and drill the back plate after you screw the board to the mainboard. Board must be flat and sturdy.
+* You should mark and drill the back plate for type-c port after you screw the board to the mainboard. Board must be flat and sturdy.
 
 **When all components are soldered you should test and inspect your board with a multimeter according to the schematic. If you are sure about it then insert the batteries correctly and power it on.**   
 
 ![Assembling Modules](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board/blob/main/Images/Assembling%20Modules.jpeg)
 
-**Note : The image above include *Rev. 1* which is the prototype version of this board. Assembly guide is identical to the *Rev. 1.1* The main difference between these revisions is a switch option to change between charge and operation mode which is found unnecessary during testing but battery disengagement feature doesn't work in this version and you must add a switch to change between modes. Minor silkscreen changes and footprint changes also made.**
+**Note : The image above include *Rev. 1* which is the prototype version of this board. Assembly guide is identical to the *Rev. 1.1*. The main difference between these revisions is a switch option to change between charge and operation mode which is found unnecessary during testing but battery disengagement feature doesn't work in this version so you must add a switch to change between modes. Minor silkscreen changes and footprint changes also made.**
 
 ### Audio Calibration
 
