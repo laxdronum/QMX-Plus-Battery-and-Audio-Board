@@ -56,7 +56,7 @@ This project is a custom battery and audio board designed for the QRP-Labs QMX+ 
 
 ### Assembly
 
-* Assembly order is not important. Resistors can be 1206 SMD or 1/4 W THT. Solder as you like. 
+* Assembly order is not important. Resistors can be 0806 SMD or 1/4 W THT. Solder as you like. 
 
 * You must give attention to positive and negative terminals indicators of your battery holders to lower the chance of accidents. 
 
