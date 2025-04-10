@@ -82,7 +82,7 @@ To calibrate the audio you must first lower the volume as down as you can using 
 
 ## Notes
 
-* If you power the radio with DC jack while battery pack is installed, QMX+ will disconnect the batteries from radio. You can only charge the batterries from the Type-C port.
+* If you power the radio with DC jack while battery pack is installed, QMX+ will disconnect the batteries from radio. You can only charge the batteries from the Type-C port. QMX+'s own Type-C port is only for data.
 * The 8mm x 8mm square behind the board is for JLCPCB order number. Select the '2D Barcode' option when ordering.
 
 ## Links
