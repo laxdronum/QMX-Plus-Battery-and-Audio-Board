@@ -56,7 +56,7 @@ This project is a custom battery and audio board designed for the QRP-Labs QMX+ 
 
 ### Assembly
 
-* Assembly order is not important. Resistors can be 0806 SMD or 1/4 W THT. Solder as you like. 
+* Assembly order is not important. Resistors can be 0805 SMD or 1/4 W THT. Solder as you like. 
 
 * You must give attention to positive and negative terminals indicators of your battery holders to lower the chance of accidents. 
 
@@ -83,7 +83,7 @@ To calibrate the audio you must first lower the volume as down as you can using 
 ## Notes
 
 * If you power the radio with DC jack while battery pack is installed, QMX+ will disconnect the batteries from radio. You can only charge the batteries from the Type-C port. QMX+'s own Type-C port is only for data.
-* The 8mm x 8mm square behind the board is for JLCPCB order number. Select the '2D Barcode' option when ordering.
+* The 8mm x 8mm square behind the board is for JLCPCB order number. Select the '2D Barcode' option while ordering.
 
 ## Links
 
