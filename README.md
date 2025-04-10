@@ -36,15 +36,15 @@ This project is a custom battery and audio board designed for the QRP-Labs QMX+ 
 **Please do not copy and rebrand my project. You are free to use it with my labels.**
 
 ## Required Components
-- **3x 18650 Li-ion Batteries:**
-- **3S 1A Multi Cell Charger Board (DDTCCRUB):** 
+- **3x 18650 Li-ion Batteries:** I used 2900mAh INR18650 cells.
+- **3S 1A Multi Cell Charger Board (DDTCCRUB):** I used 1A and 2A versions. 3A might be a problem due to heating.
 - **1x 3S 20A BMS Board** 
-- **1x LM386 Audio Amplifier Breakout Board:** Easy to assemble breakout board.
+- **1x LM386 Audio Amplifier Breakout Board:** You have to desolder the pins.
 - **1x 3A Fuse:** For further protection.
 - **1x Fuse Holder:**
 - **2x 1K 1/4W THT or 0805 SMD Resistors:** Solder as you like SMD or THT.
 - **8 Ohm Speaker:** Necessary for audio output. Use the screw terminals on the audio amplifier board.
-- **1x 2x3, 1x 2x2, 1x 1x5 2.54mm Female and Male Pin Headers:** To mount the pcb directly on the main board.
+- **1x 2x3, 1x 2x2, 1x 1x5 2.54mm Female and Male Pin Headers:** To mount the PCB directly on the main board.
 
 ### Used Modules
 
@@ -72,7 +72,7 @@ This project is a custom battery and audio board designed for the QRP-Labs QMX+ 
 
 ![Assembling Modules](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board/blob/main/Images/Assembling%20Modules.jpeg)
 
-**Note : The image above include *Rev. 1* which is the prototype version of this board. Assembly guide is identical to the *Rev. 1.1* The main difference between these revisions is a switch option to change between charge and operation mode which is found unnecessary during testing. Minor silkscreen changes and footprint changes also made.**
+**Note : The image above include *Rev. 1* which is the prototype version of this board. Assembly guide is identical to the *Rev. 1.1* The main difference between these revisions is a switch option to change between charge and operation mode which is found unnecessary during testing but battery disengagement feature doesn't work in this version and you must add a switch to change between modes. Minor silkscreen changes and footprint changes also made.**
 
 ### Audio Calibration
 
