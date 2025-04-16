@@ -94,4 +94,4 @@ To calibrate the audio you must first lower the volume as down as you can using 
 
 ![3D Back](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board/blob/main/Images/Meeting.jpg)
 
-# laxdronum, TA7MNA, GİTRAD Radio Club YM7KK
+# laxdronum, TA7MNA, GITRAD Radio Club YM7KK
