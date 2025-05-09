@@ -42,8 +42,8 @@ This project is a custom battery and audio board designed for the QRP-Labs QMX+ 
 - **3S 1A Multi Cell Charger Board (DDTCCRUB):** I used 1A and 2A versions. 3A might be a problem due to heating.
 - **1x 3S 20A BMS Board** 
 - **1x LM386 Audio Amplifier Breakout Board:** You have to desolder the pins.
-- **1x 3A Fuse:** For further protection.
-- **1x Fuse Holder:** Compatible with most 2 pin 5x20mm fuse holders.
+- **1x 5x20mm 3A Fuse:** For further protection.
+- **1x 5x20mm Fuse Holder:** Compatible with most 2 pin 5x20mm fuse holders.
 - **2x 1K 1/4W THT or 0805 SMD Resistors:** Solder as you like SMD or THT.
 - **8 Ohm Speaker:** Necessary for audio output. Use the screw terminals on the audio amplifier board.
 - **1x 2x3, 1x 2x2, 1x 1x5 2.54mm Female and Male Pin Headers:** To mount the PCB directly on the main board.
