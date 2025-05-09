@@ -12,6 +12,12 @@ This project is a custom battery and audio board designed for the QRP-Labs QMX+ 
 - Integrated BMS
 - Easy to assemble and efficient design
 
+## Revision History - Last Revision : Rev. 1.2
+
+* March 2025 Rev. 1 : Prototype version. Had a switch option to change between charging and operation mode and battery disengagement didn't work. I fixed the issue by modifying the board. BMS pins were also slightly off due to different revisions of the BMS board.
+* April 2025 Rev. 1.1 : First version that I shared on Github. Removed the switch option and battery disengagement issue fixed. BMS pins also fixed and made compatible with all BMS revisions.
+* May 2026 Rev. 1.2 : Second version. Some fuse holders were not compatible with Rev. 1.1 due to pin spacing issue. Rev. 1.1 only supported fuse holders with 600mil (15.24mm) pin spacing. Added 900mil (22.86mm) option. 
+
 ## Images
 
 ![Assembled Front](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board/blob/main/Images/Assembled%20Front.jpeg)
@@ -86,12 +92,6 @@ To calibrate the audio you must first lower the volume as down as you can using 
 
 * If you power the radio with DC jack while battery pack is installed, QMX+ will disconnect the batteries from radio. You can only charge the batteries from the Type-C port. QMX+'s own Type-C port is only for data.
 * The 8mm x 8mm square behind the board is for JLCPCB order number. Select the **'2D Barcode' option and specify position** while ordering.
-
-## Revision History
-
-* March 2025 Rev. 1 : Prototype version. Had a switch option to change between charging and operation mode and battery disengagement didn't work. I fixed the issue by modifying the board. BMS pins were also slightly off due to different revisions of the BMS board.
-* April 2025 Rev. 1.1 : First version that I shared on Github. Removed the switch option and battery disengagement issue fixed. BMS pins also fixed and made compatible with all BMS revisions.
-* May 2026 Rev. 1.2 : Second version. Some fuse holders were not compatible with Rev. 1.1 due to pin spacing issue. Rev. 1.1 only supported fuse holders with 600mil (15.24mm) pin spacing. Added 900mil (22.86mm) option. 
 
 ## Links
 
