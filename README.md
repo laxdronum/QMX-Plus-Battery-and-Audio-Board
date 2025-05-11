@@ -2,7 +2,7 @@
 
 This project is a custom battery and audio board designed for the QRP-Labs QMX+ transceiver. The module is designed to be directly mounted on the mainboard of the QMX+.
 
-## Features --- My personal website is now up:  [ta7mna.com](https://ta7mna.com)
+## Features --- My personal website is now up:  [ta7mna.com](https://ta7mna.com) --- If you want to buy this board fully assembled send me a mail.
 - Integrated battery power supply
 - Built-in audio amplifier
 - Direct mounting on QMX+ PCB
