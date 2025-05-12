@@ -2,7 +2,9 @@
 
 This project is a custom battery and audio board designed for the QRP-Labs QMX+ transceiver. The module is designed to be directly mounted on the mainboard of the QMX+.
 
-## Features --- My personal website is now up:  [ta7mna.com](https://ta7mna.com) --- If you want to buy this board fully assembled send me a mail.
+### My personal website is now up:  [ta7mna.com](https://ta7mna.com) --- If you want to buy this board fully assembled send me a mail. (mnecatianky@gmail.com)
+
+## Features
 - Integrated battery power supply
 - Built-in audio amplifier
 - Direct mounting on QMX+ PCB
@@ -88,6 +90,7 @@ To calibrate the audio you must first lower the volume as down as you can using 
 
 ## Notes
 
+* Some power adapters are not working with this battery charger module (DDTCCRUB) because it lacks power delivery (PD) technology. If your charger doesn't work try another charger. 
 * If you power the radio with DC jack while battery pack is installed, QMX+ will disconnect the batteries from radio. You can only charge the batteries from the Type-C port. QMX+'s own Type-C port is only for data.
 * The 8mm x 8mm square behind the board is for JLCPCB order number. Select the **'2D Barcode' option and specify position** while ordering.
 
