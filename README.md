@@ -4,7 +4,9 @@ This project is a custom battery and audio board designed for the QRP-Labs QMX+ 
 
 ### My personal website is now up:  [ta7mna.com](https://ta7mna.com)
 
-### (13 May 2025) – I'm currently out of stock. A new batch will be available in about 20 days. Feel free to email me if you have any questions. - mnecatianky@gmail.com
+### If you want to buy this board fully assembled send me a mail. (mnecatianky@gmail.com)
+
+### (13 May 2025) – I'm currently out of stock. A new batch will be available in about 20 days. Feel free to email me if you have any questions.
 
 ## Features
 - Integrated battery power supply
