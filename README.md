@@ -42,7 +42,7 @@ This project is a custom battery and audio board designed for the QRP-Labs QMX+ 
 ![3D Back](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board/blob/main/Images/Rev%201.2%203D%20Back.jpg)
 
 
-## Warning and Disclaimer
+## Warning and Disclaimer - It is designed to work with 12V version.
 
 **I am not responsible for any damage to your equipment, injury, or any other consequences resulting from the use or misuse of this project. Double-check all connections and follow safety guidelines. Build and use this project at your own risk.**
 
