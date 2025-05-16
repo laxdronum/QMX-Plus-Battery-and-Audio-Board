@@ -44,7 +44,7 @@ This project is a custom battery and audio board designed for the QRP-Labs QMX+ 
 
 **I am not responsible for any damage to your equipment, injury, or any other consequences resulting from the use or misuse of this project. Double-check all connections and follow safety guidelines. Build and use this project at your own risk.**
 
-**If you are using the 9V version of the QMX+ and used my board to power it up, you'll likely to fry the PA transistors. This board is for 12V version of the QMX+ You'll have to replace four BS170 found in your QMX+. You can desolder and rewind the PA transformer for 12V.**
+**If you are using the 9V version of the QMX+ and used my board to power it up, you'll likely to fry the PA transistors. You'll have to replace four BS170 found in your QMX+. This board is for 12V version of the QMX+. You can desolder and rewind the PA transformer for 12V.**
 
 **Please do not copy and rebrand my project. You are free to use it with my labels.**
 
