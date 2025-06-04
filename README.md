@@ -2,8 +2,6 @@
 
 This project is a custom battery and audio board designed for the QRP-Labs QMX+ transceiver. The module is designed to be directly mounted on the mainboard of the QMX+. **It is design to work with 12V.**
 
-### My personal website is now up:  [ta7mna.com](https://ta7mna.com)
-
 ### Please check my website for latest info about buying one of this board. : [Link](https://ta7mna.com/blog/information-about-the-new-batch)
 
 ## Features
@@ -49,14 +47,14 @@ This project is a custom battery and audio board designed for the QRP-Labs QMX+ 
 **Please do not copy and rebrand my project. You are free to use it with my labels.**
 
 ## Required Components
-- **3x 18650 Li-ion Batteries:** I used 2900mAh INR18650 cells.
+- **3x 1x18650 Li-ion Batteries:** I used 2900mAh INR18650 cells. There must be three 1x18650 battery holders.
 - **3S 1A Multi Cell Charger Board (DDTCCRUB):** I used 1A and 2A versions. 3A might be a problem due to heating.
 - **1x 3S 20A BMS Board** 
 - **1x LM386 Audio Amplifier Breakout Board:** You have to desolder the pins.
 - **1x 5x20mm 3A Fuse:** For further protection.
-- **1x 5x20mm Fuse Holder:** Compatible with most 2 pin 5x20mm fuse holders.
+- **1x 5x20mm Fuse Holder:** Compatible with most 2 pin 5x20mm fuse holders. It must have 22.86mm (0.9in) or 15.24mm (0.6in) pin pitch.
 - **2x 1K 1/4W THT or 0805 SMD Resistors:** Solder as you like SMD or THT.
-- **8 Ohm Speaker:** Necessary for audio output. Use the screw terminals on the audio amplifier board.
+- **8 Ohm Speaker:** Necessary for audio output. Use the screw terminals on the audio amplifier board. Small laptop speakers should work.
 - **1x 2x3, 1x 2x2, 1x 1x5 2.54mm Female and Male Pin Headers:** To mount the PCB directly on the main board.
 
 ### Used Modules
@@ -75,11 +73,11 @@ This project is a custom battery and audio board designed for the QRP-Labs QMX+ 
 
 * You must change the orientation of the original headers found on audio amplifier board.
 
-* Modules should be soldered on top of single header pins just like in the photo below.
+* **Modules should be soldered on top of single header pins just like in the photo below.**
 
-* To solder the radio connection headers, it is advised to solder the QMX+'s headers first. Place the board on top of the mainboard of QMX+ with suitable headers, connect the boards with screws and then solder the headers to the battery board. This ensures our board lies flat on top of the mainboard.
+* **To solder the radio connection headers, it is advised to solder the QMX+'s headers first. Place the board on top of the mainboard of QMX+ with suitable headers, connect the boards with screws and then solder the headers to the battery board. This ensures our board lies flat on top of the mainboard.**
 
-* You should mark and drill the back plate for type-c port after you screw the board to the mainboard. Board must be flat and sturdy.
+* **You should mark and drill the back plate for type-c port after you screw the board to the mainboard. Board must be flat and sturdy.**
 
 **When all components are soldered you should test and inspect your board with a multimeter according to the schematic. If you are sure about it then insert the batteries correctly and power it on.**   
 
