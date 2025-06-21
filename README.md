@@ -6,6 +6,8 @@ This project is a custom battery and audio board designed for the QRP-Labs QMX+ 
 
 ### Next Steps After Assembling or Recieving your Board (Guide): [Link](https://ta7mna.com/blog/next-steps-after-receiving-your-fully-assembled-board-rev-1x)
 
+### Review by Colin MM0OPX (Video): [This SIMPLE Mod Makes the QMX+ Even Better](https://www.youtube.com/watch?v=ZL12OHniudg)
+
 ## Features
 - Integrated battery power supply
 - Designed to work with 12V QMX+ transcievers
