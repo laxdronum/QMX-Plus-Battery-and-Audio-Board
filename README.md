@@ -44,6 +44,8 @@ This project is a custom battery and audio board designed for the QRP-Labs QMX+ 
 
 ## Warning and Disclaimer - It is designed to work with 12V version.
 
+**When operating the QMX+, always power off the device before disconnecting the DC power supply. Unplugging the DC jack while the battery board is installed can cause a voltage transient as the battery board takes over, which may lead to damage of the mainboard's voltage regulators.**
+
 **I am not responsible for any damage to your equipment, injury, or any other consequences resulting from the use or misuse of this project. Double-check all connections and follow safety guidelines. Build and use this project at your own risk.**
 
 **If you are using the 9V version of the QMX+ and used my board to power it up, you'll likely to fry the PA transistors. You'll have to replace four BS170 found in your QMX+. This board is for 12V version of the QMX+. You can desolder and rewind the PA transformer for 12V.**
