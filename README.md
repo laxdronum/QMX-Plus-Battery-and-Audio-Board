@@ -2,7 +2,7 @@
 
 This project is a custom battery and audio board designed for the QRP-Labs QMX+ transceiver. The module is designed to be directly mounted on the mainboard of the QMX+. **It is design to work with 12V.**
 
-### Please check my website for latest info about buying one of this board : [Link](https://ta7mna.com/blog/information-about-the-new-batch)
+### 9V compatible Rev. 2 has been released: [Link](https://github.com/laxdronum/QMX-Plus-Battery-and-Audio-Board-Rev.2)
 
 ### Next Steps After Assembling or Recieving your Board (Guide): [Link](https://ta7mna.com/blog/next-steps-after-receiving-your-fully-assembled-board-rev-1x)
 
